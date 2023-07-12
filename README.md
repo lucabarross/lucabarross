@@ -1,4 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=25&center=true&vCenter=true&width=1000&lines=Hello!+Welcome+to+my+profile,+My+name+is+Luca+Barros;)](https://git.io/typing-svg)
+## Welcome To My Profile!
+
+#### My Name is Luca Barros. Im a Computer Science at PUC Minas.
+
+- 👨‍🎓 Student
+- 🐔 Atlético MG
+- 💸 "Pacient + Time = Sucess" 
+- 💻 Always Learning
 
 ##
 <div align="center">
