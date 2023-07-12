@@ -3,15 +3,17 @@
 ##
 <div align="center">
    <a href="https://github.com/lucabarross">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucabarross&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucabarross&layout=compact&langs_count=6&theme=highcontrast"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucabarross&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucabarross&layout=compact&langs_count=6&theme=highcontrast"/>
 </div><br>
+   
+   <p align="center">
+     <img src="https://github-profile-trophy.vercel.app/?username=lucabarross&theme=dracula&row=2&no-bg=true&column=3&margin-w=0&margin-h=0" />
+   </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucabarross&bg_color=000000&color=ffffff&line=ffffff&point=babc1a&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucabarross&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
 
 ##
 
