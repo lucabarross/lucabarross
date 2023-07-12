@@ -10,7 +10,7 @@
 ##
 <div align="left">
    <a href="https://github.com/lucabarross">
-   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=lucabarross&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/><img align="right" height="340em" src="https://github-profile-trophy.vercel.app/?username=lucabarross&theme=dracula&row=2&no-bg=true&column=3&margin-w=0&margin-h=0" />
+   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=lucabarross&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/><img align="right" height="280em" src="https://github-profile-trophy.vercel.app/?username=lucabarross&theme=dracula&row=2&no-bg=true&column=3&margin-w=0&margin-h=0" />
    <img height="208em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucabarross&layout=compact&langs_count=6&theme=highcontrast"/>
 </div><br> 
    
