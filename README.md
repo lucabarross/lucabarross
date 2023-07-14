@@ -3,7 +3,6 @@
 #### My Name is Luca Barros. Im a Computer Science at PUC Minas.
 
 - 👨‍🎓 Student
-- 🐔 Atlético MG
 - 💸 "Pacient + Time = Sucess" 
 - 💻 Always Learning
 
