@@ -19,18 +19,26 @@
 ##
 
 <div style="display: inline_block">
+   
    <div>
-      <h4>Techs & Tools:</h4>
+      <h4>Techs:</h4>
    </div>   
-
+   
    ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
    ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
    ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
    ![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=purple&labelColor=0D1117)&nbsp;
-   ![C++](https://img.shields.io/badge/-c++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=Purple&labelColor=0D1117&textColor=0D1117)&nbsp;
-   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-   ![Replit](https://img.shields.io/badge/-replit-0D1117?style=for-the-badge&logo=replit&logoColor=orange&labelColor=0D1117)&nbsp;
-   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+   ![C++](https://img.shields.io/badge/-c++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=Purple&labelColor=0D1117&textColor=0D1117)&nbsp;</br>
+ 
+
+   <div>
+      <h4>Tools:</h4>
+   </div>
+  
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+  ![Replit](https://img.shields.io/badge/-replit-0D1117?style=for-the-badge&logo=replit&logoColor=orange&labelColor=0D1117)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+   
 
    <div>
       <h4>Future Learning:</h4>
