@@ -3,11 +3,11 @@
 <div>
    <p>Hi, my name is Luca Barros, I'm 19 years old and I'm studying Computer Science in college. I am also very interested in the area that involves Hardwares. 
 I always seek to face new challenges and acquire new knowledge, especially, envolving the programming.<br>
-<b><br><b>“O dia em que não aprendi nada foi um dia não vivido.” - Leonardo da Vinci</b></p>
+      
+<b>“O dia em que não aprendi nada foi um dia não vivido.” - Leonardo da Vinci</b></p>
 
    
-   <div align="right">
-      <img align="left" height="75em" src="https://media2.giphy.com/media/pALw8LdftuqAw/200w.webp?cid=ecf05e4770025202tm98gn3ltmhg3rrjtjquc4edypsgsdpb&ep=v1_gifs_search&rid=200w.webp&ct=g">
+   <div align="center">
       <a href="https://www.instagram.com/lucabarross_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
      <a href = "mailto:lbpassis6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
