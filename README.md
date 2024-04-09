@@ -3,8 +3,6 @@
 <div>
    <p>Hi, my name is Luca Barros, I'm 20 years old and I'm studying Computer Science in college. I am also very interested in the area that involves Hardwares. 
 I always seek to face new challenges and acquire new knowledge, especially, envolving the programming.<br>
-      
-<b>“O dia em que não aprendi nada foi um dia não vivido.” - Leonardo da Vinci</b></p>
 
    
    <div align="center">
